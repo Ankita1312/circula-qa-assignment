@@ -1,5 +1,3 @@
-Here's the content formatted for .md:
-
 ## Task 2: Android - Add Error Message for Character Limit in Purpose Field
 
 ### Functional Testing
@@ -27,7 +25,7 @@ Here's the content formatted for .md:
      * The error state disappears (text returns to normal color) once the character count is 1000 or less.
 
 6. Verify that the field remains editable after reaching the maximum limit (1000 characters).
-   * Expected Result: You can still add, delete, or edit text even after reaching the limit.
+   * Expected Result: You can still add, delete or edit text even after reaching the limit of 1000.
 
 ### UI/UX Testing
 
