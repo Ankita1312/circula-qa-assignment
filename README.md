@@ -9,15 +9,15 @@ This repository contains the solution to the QA Analyst home assignment. It incl
 
 ### Task 1: Web - Add Sweden to Sign-up Dropdown
 
-`test_checklist.md` contains a detailed test checklist for verifying the correct implementation of adding Sweden to the "Where's your company registered?" dropdown on the sign-up page. The checklist includes functional, UI/UX, localization, and edge case/negative testing.
+`test_checklist_1.md` contains a detailed test checklist for verifying the correct implementation of adding Sweden to the "Where's your company registered?" dropdown on the sign-up page. The checklist includes functional, UI/UX, localization, and edge case/negative testing.
 
 ### Task 2: Android - Add Error Message for Character Limit
 
-`test_checklist.md` contains a detailed test checklist for verifying the correct implementation of the error message for the character limit in the purpose field of an expense in the Android app. The checklist includes verifying the display of the character counter, the character limit enforcement, the error state, and the CTA behavior.
+`test_checklist_2.md` contains a detailed test checklist for verifying the correct implementation of the error message for the character limit in the purpose field of an expense in the Android app. The checklist includes verifying the display of the character counter, the character limit enforcement, the error state, and the CTA behavior.
 
 ### Task 3: iOS - Strong Password Policy
 
-`test_checklist.md` contains a detailed test checklist for verifying the correct implementation of the strong password policy in the iOS app. The checklist includes verifying the old password field, the new password criteria (length, numerical character, letter), the CTA activation, and the error/success messages.
+`test_checklist_3.md` contains a detailed test checklist for verifying the correct implementation of the strong password policy in the iOS app. The checklist includes verifying the old password field, the new password criteria (length, numerical character, letter), the CTA activation, and the error/success messages.
 
 ## Automated Tests (Task 1)
 
