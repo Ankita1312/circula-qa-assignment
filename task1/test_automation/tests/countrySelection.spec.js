@@ -59,7 +59,7 @@ test.describe("Country Selection Tests", () => {
     await expect(page.locator("text=Switzerland")).not.toBeVisible();
   });
 
-  test('Verify that typing a non-existent country (e.g., "werwer") displays an appropriate message', async ({
+  test('Verify that typing a non-existent country (eg "werwer") displays an appropriate message', async ({
     page,
   }) => {
     await signupPage.openCountryDropdown();

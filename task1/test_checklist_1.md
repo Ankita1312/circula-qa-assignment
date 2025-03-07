@@ -14,7 +14,7 @@
     *   Expected Result: "Sweden" is displayed in the dropdown in alphabetical order.
 
 3.  Verify that the user can select "Sweden" from the dropdown.
-    *   Expected Result: After selecting "Sweden," it should be displayed as the selected option in that field.
+    *   Expected Result: After selecting "Sweden" it should be displayed as the selected option in that field.
 
 4.  Verify that the form can be successfully submitted when "Sweden" is selected as the company registration country.
     *   Expected Result: After selecting "Sweden" and adding all mandatory fields when user clicks "create an account" button then it successfully submits the information and proceeds the user to the next step.
@@ -38,7 +38,7 @@
 
 ### III. Edge Cases/Negative Testing:
 
-10. Verify that typing a non-existent country (e.g., "werwer") displays an appropriate message.
+10. Verify that typing a non-existent country (eg "werwer") displays an appropriate message.
     *   Expected Result: The message "Can't find your country? Contact us." is displayed in the dropdown and  when user clicks "contact us" they are redirected to the contact page.
 
 11. Verify that when user tried to create the account the form selecting a country then an error message.
