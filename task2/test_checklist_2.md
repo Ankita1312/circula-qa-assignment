@@ -1,5 +1,3 @@
-Here's the content formatted for .md:
-
 ## Task 2: Android - Add Error Message for Character Limit in Purpose Field
 
 ### Functional Testing
