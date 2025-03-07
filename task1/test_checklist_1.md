@@ -42,7 +42,9 @@
     *   Expected Result: The message "Can't find your country? Contact us." is displayed in the dropdown and  when user clicks "contact us" they are redirected to the contact page.
 
 11. Verify that when user tried to create the account the form selecting a country then an error message.
-    *   Expected Result: The error message "Company registration country is required" is displayed.
+    *   Expected Result: 
+        *   The error message "Company registration country is required" is displayed.
+        *   The Create account button is disabled until we fill all the madatory fields.
 
 12. Verify that there are no duplicate entries for any countries in the dropdown list.
     *   Expected Result: Each country appears only once in the list.
